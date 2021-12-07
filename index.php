@@ -43,7 +43,7 @@
 
     <body>
         <div class="page-header header">
-            <h1 class="page-header-text">Karim geeks</h1>
+            <h1 class="page-header-text">Sux</h1>
         </div>
             <table border="0" width="100%">
                 <tr>
